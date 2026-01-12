@@ -1,12 +1,12 @@
-#Jogo Pedra, Papel e Tesoura (Versão Multiplayer)
+# Jogo Pedra, Papel e Tesoura (Versão Multiplayer)
 
-##Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto foi desenvolvido como um exercício prático do curso da Data Science Academy (DSA). O objetivo principal foi exercitar a *lógica de algoritmos, uso de variáveis, estruturas condicionais e funções de entrada e saída de dados*.
 
 Este código foi estruturado *antes* de consultar a resolução do instrutor, focando em criar uma solução robusta e com uma *boa experiência* para o usuário.
 
-##Diferenciais Técnicos e Implementações
+## Diferenciais Técnicos e Implementações
 
 Diferente de implementações básicas, este script traz recursos avançados de usabilidade e tratamento de dados:
 
@@ -18,7 +18,7 @@ Diferente de implementações básicas, este script traz recursos avançados de 
 
 * **Lógica de Empate**: O jogo reinicia automaticamente em caso de empate, mantendo o *fluxo contínuo* até que haja um vencedor definido.
 
-##Aprendizados Consolidados
+## Aprendizados Consolidados
 
 * **Estruturação de algoritmos independentes**.
 

@@ -25,3 +25,8 @@ Diferente de implementações básicas, este script traz recursos avançados de 
 * **Manipulação de listas e operadores de pertinência** (`in / not in`).
 
 * **Escopo de variáveis dentro e fora de funções**.
+
+## Teste o Jogo Agora!!
+Você pode executar este código diretamente no seu navegador através do Google Colab:
+Clique aqui para jogar (https://colab.research.google.com/drive/1nYss6AAPtjPnHJyakUto1c0mIM9-hBPH?usp=sharing)
+
